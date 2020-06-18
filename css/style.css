@@ -1,4 +1,49 @@
-#conteudo{
-    width: 900px;
+body{
+    
+    background-image: url(img/fundo.png);
+    font: 16px Arial, Helvetica, sans-serif; 
 }
-  
+#principal{
+  width: 900px;
+  margin: auto;
+    
+}
+
+#menu{
+    background: #F4A460;
+    padding: 18px;
+    text-align: center;
+    
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border: 1px;
+    padding: 5px;
+
+}
+
+#conteudo{
+    background: #FFDEAD	;
+    padding: 10px;
+    
+}
+
+.imagem-campanha{
+    
+    border: 10px solid  #c3c3ae;
+}
+
+.centralizar{
+    background:  #F4A460;
+    text-align: center;
+    padding: 1px;
+}
+h1{
+    font-size: 1.2em;
+}
+h4{
+    font-size: 0.7em;
+}
